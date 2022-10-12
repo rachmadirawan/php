@@ -3,7 +3,7 @@
 //variable di awali dengan $
 //variable dapat menyimpan value / nilai
 
-$a = ''; //ini adalah variable $a sengan nila string kosong
+$a = ''; //ini adalah variable $a dengan nila string kosong
 
 $a = "Rachmad Irawan"; // disini $a menyimpan nila string "Rachmad Irawan" yang menimpa $a = '';
 
